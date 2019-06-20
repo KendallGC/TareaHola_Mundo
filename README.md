@@ -1,4 +1,4 @@
 # TareaHola_Mundo
 
 
-Forma de hacer el Hola Mundo con Netbeans 8.2 utilizando JFrame
+Hola Mundo con Netbeans 8.2 utilizando JFrame
