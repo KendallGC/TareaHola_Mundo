@@ -19,6 +19,9 @@ public class Main {
         
         hm.setTitle("Primer Hola Mundo");
         hm.setVisible(true);
+        
+        Calculadora cal = new Calculadora();
+        cal.setVisible(true);
     }
     
 }
